@@ -1,0 +1,22 @@
+# Streamlit and API secrets
+.streamlit/secrets.toml
+*.env
+
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+venv/
+env/
+
+# System and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary or local data
+*.log
+*.tmp
